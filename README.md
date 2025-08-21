@@ -1,16 +1,14 @@
-## Hi there 👋
+# Olá, eu sou a Marcela 👋
 
-<!--
-**MarcelaSouza2025/MarcelaSouza2025** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Atualmente trabalho com Front-end na **VW**
+- 🌱 Estudando **React Native e testes automatizados**
+- 💡 Curiosa e sempre buscando aprender coisas novas
+- ⚡ Fun fact: adoro transformar ideias em código
 
-Here are some ideas to get you started:
+## 🚀 Tecnologias que uso
+- React Native, React.js, JavaScript, TypeScript
+- Jest, Appium, CodeceptJS
+- Git, GitHub, Expo
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 Estatísticas do GitHub
+![Marcela's GitHub stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=radical)
