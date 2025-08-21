@@ -9,8 +9,8 @@
 ## ✨ Sobre mim
 - 🔨 Trabalho com **React, React Native e TypeScript**  
 - 🚀 Sempre melhorando meus conhecimentos em desenvolvimento  
-- 🔒 Todos os meus projetos estão aqui no GitHub: [MarcelaSouza1995](https://github.com/MarcelaSouza1995)  
-- 📩 Como falar comigo: [Email](mailto:SEU_EMAIL_AQUI)  
+- 🔒 Todos os meus projetos estão aqui no GitHub: [MarcelaSouza1995](https://github.com/MarcelaSouza2025)  
+- 📩 Como falar comigo: [Email](marcela9908@gmail.com)  
 
 ---
 
